@@ -9,8 +9,17 @@
 
 - 🌱 I'm passionate about data, programming and always open to learning new languages ​​and meeting new people. I have a professional interest in data science (DS) and am an enthusiast in data engineering, gen AI and Web3.
 
-### Connect with me:
+**Experience**
 
+• Developed an algorithm for WEG S.A. (Wind Turbines) to generate predictive alarms and minimize unscheduled maintenance which led to a significant reduction in maintenance costs.
+
+• Created a new app for WEG S.A. to interface with an accelerometer sensor in a vibration control system. The project involved leveraging Bluetooth Low Energy (BLE), as well as applying concepts of vibration control and Fast Fourier Transform (FFT).
+
+• Implemented a statistical and clustering algorithm for electronic devices in a MESH network for Landis+Gyr, mapping devices with the highest instability. This led to a decrease in manual analysis efforts and significantly reduced the time required for operational evaluation by the monitoring team.
+
+• Led an Industry 4.0 project aimed at automating data acquisition and monitoring from an industrial tomograph. The primary objectives included: (i) establishing a data pipeline for acquisition; (ii) creating scripts for data ingestion and processing; (iii) developing a backend with REST API solutions; (iv) structuring a frontend website for real-time monitoring; (v) deploying Docker containers on the Fundação CERTI system.
+
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/ianmarchetti/">
   <img align="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
