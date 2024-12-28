@@ -7,7 +7,7 @@
 
 - 📚 Mechanical Engineering student at [**Federal University of Santa Catarina**](https://ufsc.br/)
 
-- 🌱 I'm passionate about data, programming and always open to learning new languages ​​and meeting new people
+- 🌱 I'm passionate about data, programming and always open to learning new languages ​​and meeting new people. I have a professional interest in data science (DS) and am an enthusiast in data engineering, gen AI and Web3.
 
 ### Connect with me:
 
@@ -25,12 +25,13 @@
 ___
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Python3" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Pandas" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="TensorFlow" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="LangChain" width="50px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/LangChain_logo.png" />
 <img align="left" alt="JavaScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="ReactNavigation" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" />
-<img align="left" alt="Android" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
-<img align="left" alt="Python3" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br/>
 <br/>
 <br/>
