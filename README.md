@@ -17,7 +17,7 @@
 
 - 📲 Created a new app for WEG S.A. to interface with an accelerometer sensor in a vibration control system. The project involved leveraging Bluetooth Low Energy (BLE), as well as applying concepts of vibration control and Fast Fourier Transform (FFT).
 
-- 🧩 Implemented a statistical and clustering algorithm for electronic devices in a MESH network for Landis+Gyr, mapping devices with the highest instability. This led to a decrease in manual analysis efforts and significantly reduced the time required for operational evaluation by the monitoring team.
+🧩 Implemented a statistical and clustering algorithm for electronic devices in a MESH network for Landis+Gyr, mapping devices with the highest instability. Additionally, developed a tool to open and visualize the network topology, reducing generation time by over 99% (from 5 minutes to just 2 seconds). These improvements decreased manual analysis efforts and significantly accelerated operational evaluation by the monitoring team.
 
 - ☢️ Led an Industry 4.0 project aimed at automating data acquisition and monitoring from an industrial tomograph. The primary objectives included: (i) establishing a data pipeline for acquisition; (ii) creating scripts for data ingestion and processing; (iii) developing a backend with REST API solutions; (iv) structuring a frontend website for real-time monitoring; (v) deploying Docker containers on the Fundação CERTI system.
 
