@@ -9,7 +9,7 @@
 
 - 📚 Mechanical Engineering student at [**Federal University of Santa Catarina**](https://ufsc.br/)
 
-- 🌱 I'm passionate about data, programming and always open to learning new languages ​​and meeting new people. I have a professional interest in data science (DS) and am an enthusiast in data engineering, gen AI and Web3.
+- 🌱 I'm passionate about data, programming and always open to learning new languages ​​and meeting new people. I have a professional interest in AI and am an enthusiast in data engineering and Web3.
 
 **Experience**
 
