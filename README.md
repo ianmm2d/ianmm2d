@@ -19,6 +19,8 @@
 
 - 🧩 Implemented a statistical and clustering algorithm for electronic devices in a MESH network for Landis+Gyr, mapping devices with the highest instability. Additionally, developed a tool to open and visualize the network topology, reducing generation time by over 99% (from 5 minutes to just 2 seconds). These improvements decreased manual analysis efforts and significantly accelerated operational evaluation by the monitoring team.
 
+- 🔧 Developed an automated Python system for Docol to monitor and analyze metallic commodity prices, identifying optimal purchasing moments through historical and graphical analysis. Integrated with Power BI via Google Sheets and deployed with Docker and Linux cronjobs. The solution outperformed traditional methods across seven different metallic commodities, achieving positive returns in all cases.
+
 - ☢️ Led an Industry 4.0 project aimed at automating data acquisition and monitoring from an industrial tomograph. The primary objectives included: (i) establishing a data pipeline for acquisition; (ii) creating scripts for data ingestion and processing; (iii) developing a backend with REST API solutions; (iv) structuring a frontend website for real-time monitoring; (v) deploying Docker containers on the Fundação CERTI system.
 
 ### Connect with me:
