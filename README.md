@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 Software Development Intern at [**Fundação CERTI**](https://neo.certi.org.br/)
+- 💼 AI/ML Development Intern at [**Fundação CERTI**](https://neo.certi.org.br/)
 
 - 🌍 Currently on exchange at Technical University of Munich (TUM) in Munich, Germany
 
