@@ -3,13 +3,15 @@
 
 **About me**
 
-- 💼 AI/ML Development Intern at [**Fundação CERTI**](https://neo.certi.org.br/)
+- 💼 AI & Python Developer Intern – Risk Analytics at [**BMW Group**](https://www.bmwgroup.com/en.html)
 
 - 🌍 Currently on exchange at Technical University of Munich (TUM) in Munich, Germany
 
 - 📚 Mechanical Engineering student at [**Federal University of Santa Catarina**](https://ufsc.br/)
 
-- 🌱 I'm passionate about data, programming and always open to learning new languages ​​and meeting new people. I have a professional interest in AI and am an enthusiast in data engineering and Web3.
+- 🏢 2+ years of experience as AI Engineer Intern at Fundação CERTI, working on AI, data, and industrial software projects for large companies
+
+- 🌱 I'm passionate about data and programming, and I'm always open to learning new languages and meeting new people. I have a professional interest in Agentic AI and am an enthusiast of mathematics, physics, and advanced topics in machine learning.
 
 **Experience**
 
